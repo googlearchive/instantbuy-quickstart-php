@@ -1,2 +1,0 @@
-instantbuy-quickstart-php
-=========================
