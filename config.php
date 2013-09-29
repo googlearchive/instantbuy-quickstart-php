@@ -15,7 +15,6 @@
  * limitations under the License.
  *
  *
- * @author Nasir Khan <nasir@google.com>
  * @version 1.0
  *
  * The Config file holds configuration constants for the sample JWT server

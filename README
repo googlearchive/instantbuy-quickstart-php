@@ -35,6 +35,7 @@ Restart Apache by your favorite mechanism (on Linux sudo apachectl restart)
 Set up the Project
 ------------------
 1. Change the config.php values, Here all the constants are self explanatory and described in the config.php as well.
-2. Copy all the PHP files to your server root
+2. In the file index.php, replace ENTER_CLIENTID_HERE with your Client ID.
+3. Copy all the PHP files to your server root
 
 

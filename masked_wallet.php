@@ -16,7 +16,6 @@
  * limitations under the License.
  *
  *
- * @author Nasir Khan <nasir@google.com>
  * @version 1.0
  * 
  * The sample app sends a POST request to generate a Masked Wallet JWT

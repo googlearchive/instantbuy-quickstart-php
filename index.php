@@ -16,7 +16,6 @@
  * limitations under the License.
  *
  *
- * @author Nasir Khan <nasir@google.com>
  * @version 1.0
  *
  *  For this to work properly, have the following in the httpd.conf
@@ -250,7 +249,7 @@
 		  <script type="text/javascript"
 		  src="https://wallet-web.sandbox.google.com/online/v2/merchant/merchant.js"></script>
 		  <script type="text/javascript">
-		var OauthClientId = "Client Id";
+		var OauthClientId = "ENTER_CLIENTID_HERE";
 
 		//Information for Masked Wallet request
 		var MaskedWalletJson = {
